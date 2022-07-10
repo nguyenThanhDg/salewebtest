@@ -1,0 +1,3 @@
+com\ntd\configs\DispatcherServletInitializer.class
+com\ntd\controllers\IndexController.class
+com\ntd\configs\WebApplicationContextConfig.class
